@@ -1,0 +1,21 @@
+{
+    "name": "wyy/wxext",
+    "description": "微信php常用扩展 ",
+    "keywords": ["微信","wechat","wyy"],
+    "authors": [
+        {
+            "name": "weiyeying",
+            "email": "weiyeying@163.com"
+        }
+    ],
+    "homepage":"http://www.weiyeying.cn",
+    "license":"MIT",
+    "require": {
+        "php": "^5.3.3 || ^7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "wyy\\wxext\\": "src"
+        }
+    }
+}
