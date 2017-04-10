@@ -1,4 +1,4 @@
-browser-detector
+wyy/wxext
 ===================
 ###主要作用
 * 微信开发扩展插件
