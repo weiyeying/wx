@@ -13,5 +13,5 @@ browser-detector
 
     use wx\wxext;
   
-   
+   $obj=new wxext();
 
