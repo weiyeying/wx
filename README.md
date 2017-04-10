@@ -7,7 +7,7 @@ browser-detector
 
 ### 安装
     
-    composer require wx/wxext
+    composer require wyy/wxext
 
 ### 使用
 
